@@ -1,0 +1,35 @@
+Last Updated: 08/05/2025
+
+This Privacy Policy explains how the Dominions Status Bot ("the Bot") handles user data. By using the Bot, you agree to the collection and use of information in accordance with this policy.
+
+1. Information Collected
+
+The Bot does not collect, log, store, or share any personal information or message content. The only data processed are Discord command messages issued directly to the Bot and publicly available HTTP data from user-provided URLs.
+
+2. No Persistent Storage
+
+The Bot does not persistently store any user data or command history. All processing is performed in-memory and discarded after execution. No logs are retained.
+
+3. Third-Party Services
+
+The Bot may make HTTP requests to public web pages as directed by users. These pages are specified by users and are not tracked or stored. We are not responsible for the content or privacy practices of third-party websites.
+
+4. Data Sharing
+
+We do not sell, share, or transfer any user data to third parties. The Bot operates solely for functional purposes and does not monetize or analyze user data.
+
+5. Security
+
+While no system is perfectly secure, we take reasonable steps to ensure that the Bot operates in a secure manner and does not expose users to undue risk.
+
+6. Children’s Privacy
+
+The Bot is not directed toward individuals under the age of 13. We do not knowingly collect or solicit any personal information from children.
+
+7. Changes to This Policy
+
+We reserve the right to update or modify this Privacy Policy at any time. Continued use of the Bot after changes are posted constitutes acceptance of the revised policy.
+
+8. Contact
+
+If you have any questions or concerns about this policy, please contact us via the Discord Developer Portal.
